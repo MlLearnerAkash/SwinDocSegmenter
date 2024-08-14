@@ -1,0 +1,4 @@
+maskdino/**
+model_final_doclay_swindocseg.pth
+*.png
+**/__pycache__/
